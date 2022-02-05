@@ -1,3 +1,3 @@
 # colorSwitch
-Cambia de color el fondo
+- Cambia de color el fondo
 ## Otro título
